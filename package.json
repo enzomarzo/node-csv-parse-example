@@ -1,0 +1,15 @@
+{
+  "name": "planets",
+  "version": "1.0.0",
+  "description": "find habitable planets according to data obtained by nasa through the kepler telescope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Enzo Marzo",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.3.6"
+  }
+}
